@@ -1,1 +1,1 @@
-# newsletter-cursoDev
+# tabnews-cursoDev
